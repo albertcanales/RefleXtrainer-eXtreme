@@ -19,3 +19,15 @@
 - 8 [Módulos pixel de 3 LED RGB con chip WS2811](https://www.ebay.es/itm/20PCS-lot-12V-WS2811-30mm-Diffused-LED-Pixel-Module-Full-Color-3LEDs-LED-string/263857901111?hash=item3d6f280e37:g:7G4AAOSwN91bZWyd). 
 - Interruptor o boton con enclavamiento.
 - Regulador 5V 1A 7805.
+
+## Posibles mejoras
+
+Desde Lleida os aportamos uno de nuestros proyectos. Aún así, os animamos a mejorarlo con vuestras propias ideas!
+
+A continuación os dejamos algunas de las nuestras:
+- Añadir un altavoz o un zumbidor.
+- Guardar el ránking histórico en la targeta SD, como si se tratase de una Arcade.
+- Crear nuevos modos de juego, accesibles desde un menú inicial
+- Añadir módulo wifi, para poder conectarla con otras X i crear un ranking interacadèmico.
+
+Vuestra mejora podrá ser añadida en master!
